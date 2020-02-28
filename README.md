@@ -5,4 +5,4 @@ Hello everyone！
 
 I love the world!
 
-test conflict & test git and
+test conflict and test git
